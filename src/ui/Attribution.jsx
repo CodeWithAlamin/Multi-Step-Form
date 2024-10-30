@@ -16,7 +16,7 @@ function Attribution() {
         <span>
           Coded by
           <a
-            href="https://twitter.com/CodePapa360"
+            href="https://twitter.com/CodeWithAlamin"
             target="_blank"
             rel="noreferrer"
           >
@@ -26,7 +26,7 @@ function Attribution() {
         <span>
           Challenge by
           <a
-            href="https://www.frontendmentor.io/profile/CodePapa360"
+            href="https://www.frontendmentor.io/profile/CodeWithAlamin"
             target="_blank"
             rel="noreferrer"
           >

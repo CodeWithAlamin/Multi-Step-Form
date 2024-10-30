@@ -5,7 +5,7 @@
   <h2>Multi Step Form</h2>
 
   <h3>
-    <a href="https://multi-step-form-codepapa.vercel.app">
+    <a href="https://multi-step-form-alamin.vercel.app">
       <strong>Demo Website</strong>
     </a>
   </h3>
@@ -13,9 +13,9 @@
   <div align="center">
     <a href="https://www.frontendmentor.io/solutions/multi-step-form-w-react-and-redux-toolkit-XaJTbJ92Xn">Solution (FEM)</a>
     •
-    <a href="https://github.com/CodePapa360/Multi-Step-Form/issues">Report Bug</a>
+    <a href="https://github.com/CodeWithAlamin/Multi-Step-Form/issues">Report Bug</a>
     •
-    <a href="https://github.com/CodePapa360/Multi-Step-Form/pulls">Request Feature</a>
+    <a href="https://github.com/CodeWithAlamin/Multi-Step-Form/pulls">Request Feature</a>
   </div>
 
   <hr>
@@ -31,8 +31,8 @@
 <!-- Liceensee -->
 <img src="https://img.shields.io/badge/License-MIT-blue?style=flat" alt="License" />
 
-<a href='https://www.twitter.com/CodePapa360' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
-<a href='https://www.linkedin.com/in/codepapa360' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodePapa360-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
+<a href='https://www.twitter.com/CodeWithAlamin' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/@CodeWithAlamin-100000?style=for-the-badge&logo=Twitter&logoColor=00C9F7&labelColor=3F3F3F&color=0092FA'/></a>
+<a href='https://www.linkedin.com/in/CodeWithAlamin' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/@CodeWithAlamin-100000?style=for-the-badge&logo=LinkedIn&logoColor=00a0dc&labelColor=2F2F2F&color=0077b5'/></a>
 
 </div>
 
@@ -42,7 +42,7 @@ This React project demonstrates a multi-step form. The form utilizes React Hook 
 </p>
 
 <!-- Screenshot -->
-<a align="center" href="https://multi-step-form-codepapa.vercel.app">
+<a align="center" href="https://multi-step-form-alamin.vercel.app">
 
 ![Screenshot](./public/thumbnail-preview.png)
 
@@ -95,7 +95,7 @@ Users should be able to:
 - Clone this repo:
 
 ```sh
-git clone https://github.com/CodePapa360/Multi-Step-Form.git
+git clone https://github.com/CodeWithAlamin/Multi-Step-Form.git
 ```
 
 - Install dependencies:
@@ -120,10 +120,10 @@ npm run dev
 
 <b>Alamin</b>
 
-- Twitter - [@CodePapa360](https://www.twitter.com/CodePapa360)
-- LinkedIn - [@CodePapa360](https://www.linkedin.com/in/codepapa360)
-- Frontend Mentor - [@CodePapa360](https://www.frontendmentor.io/profile/CodePapa360)
-- Github: [@CodePapa360](https://github.com/codepapa360)
+- Twitter - [@CodeWithAlamin](https://www.twitter.com/CodeWithAlamin)
+- LinkedIn - [@CodeWithAlamin](https://www.linkedin.com/in/CodeWithAlamin)
+- Frontend Mentor - [@CodeWithAlamin](https://www.frontendmentor.io/profile/CodeWithAlamin)
+- Github: [@CodeWithAlamin](https://github.com/CodeWithAlamin)
 
 Feel free to contact me with any questions or feedback!
 
